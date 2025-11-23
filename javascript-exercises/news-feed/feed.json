@@ -1,0 +1,29 @@
+{
+  "newsStories": [
+    {
+      "title": "Tech Company Announces Revolutionary AI Platform",
+      "date": "2025-11-23",
+      "description": "A leading technology company has unveiled a groundbreaking artificial intelligence platform that promises to transform how businesses interact with their customers."
+    },
+    {
+      "title": "Global Climate Summit Reaches Historic Agreement",
+      "date": "2025-11-22",
+      "description": "World leaders have signed a comprehensive climate accord aimed at reducing carbon emissions by 50% over the next decade, marking a significant step in global environmental policy."
+    },
+    {
+      "title": "Scientists Discover New Species in Deep Ocean",
+      "date": "2025-11-21",
+      "description": "Marine biologists have identified several previously unknown species during an expedition to one of the deepest parts of the Pacific Ocean, offering new insights into deep-sea ecosystems."
+    },
+    {
+      "title": "Stock Markets Hit Record Highs Amid Economic Recovery",
+      "date": "2025-11-20",
+      "description": "Major stock indices reached unprecedented levels today as investors respond positively to strong economic indicators and corporate earnings reports across multiple sectors."
+    },
+    {
+      "title": "New Study Links Exercise to Improved Mental Health",
+      "date": "2025-11-19",
+      "description": "Researchers have published findings showing that regular physical activity significantly reduces symptoms of anxiety and depression, with benefits appearing after just two weeks of consistent exercise."
+    }
+  ]
+}

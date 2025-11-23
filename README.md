@@ -8,41 +8,48 @@ There are a number of roles in web development and it is useful to be aware of t
 
 The backbone of the web is built on HTML, CSS and Javascript. Knowledge of these three technologies are essential for many roles in web development:
 
-**[Introduction to Web Development](./into-to-web.md)**
+**[Introduction to Web Development](./docs/intro-to-web.md)**
 
 On top of these technologies you are likely to come across other programming languages which are used in the back end, such as Python, PHP, Java or Ruby.
 
-## Brief
+## Coding Exercises
 
-The goal of this training is to run through learning the basics of web development and then design and build a web page which will show a list of news items and then a news detail page to display the news item.
+### HTML/ CSS Exercises
 
-Once this is complete then we will build out a backend solution using Django to store and serve these news stories.
+1. **[Create a Person Profile Page](./html-exercises/person-profile/README.md)**:
+    Build a basic HTML page with headings, paragraphs, an image, and a list of skills.
+2. **[Build a Simple Navigation Menu](./html-exercises/navigation/README.md)**:
+    Create an unordered list with links to different sections of a page using anchor tags.
+3. **[Design a Contact Form](./html-exercises/contact-form/README.md)**:
+    Construct a form with input fields for name, email, message, and a submit button.
+4. **[Embed Media](./html-exercises/media-embeds/README.md)**:
+    Create a page that embeds a video, audio file, and iframe.
+5. **[Build a Recipe Page](./html-exercises/recipe-page/README.md)**:
+    Structure a recipe with headings, ingredients list, ordered steps, and an image.
 
-### News Index page
+### Javascript Execercises
 
-The news index should have the following:
-* a banner with an image and title with intro text
-* left hand section showing a list of news categories
-* right section with a grid of news stories with links to news detail pages
-* each item in the list of news should contain the following:
-** an image
-** date of publication
-** title
+1. **[Variable Practice](./javascript-exercises/variable-practice/README.md)**:
+    Create variables to store your name, age, and favorite color.
+2. **[Temperature Converter](./javascript-exercises/temperature-converter/README.md)**:
+    Build a function that converts Celsius to Fahrenheit and vice versa.
+3. **[Basic Calculator](./javascript-exercises/basic-calculator/README.md)**:
+    Write functions to add, subtract, multiply, and divide two numbers.
+4. **[FizzBuzz Challenge](./javascript-exercises/fizzbuzz/README.md)**:
+    Create a program that prints numbers 1-100, but prints "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "FizzBuzz" for multiples of both.
+5. **[To-Do List](./javascript-exercises/todo-list/README.md)**:
+    Build a simple to-do list where users can add, remove, and mark tasks as complete using DOM manipulation.
+6. **[Random Quote Generator](./javascript-exercises/quote-generator/README.md)**:
+    Display a random quote from an array when a button is clicked.
+7. **[Counter App](./javascript-exercises/counter-app/README.md)**:
+    Create increment, decrement, and reset buttons that update a displayed number.
+8. **[Password Validator](./javascript-exercises/password-validator/README.md)**:
+    Write a function that checks if a password meets certain criteria (length, special characters, etc.).
+9. **[Image Slider/Carousel](./javascript-exercises/image-slider/README.md)**:
+    Create a slideshow that cycles through images with next/previous buttons.
+10. **[News Feed](./javascript-exercises/news-feed/README.md)**:
+    Fetch and display current news articles using a local json file.
 
-### News Detail page
+## Main Project
 
-Each news detail page should contain the following:
-* an image
-* title
-* date of publication
-* author name
-* author image
-* news article content
-* related news section
-
-## Planning
-
-We need to break this project down into 3 main phases, these are as follows:
-* create design flats
-* build html and css from the flats
-* build out a backend solution
+Once you have worked through the above exercises then you can move onto the main project, the details for which are in [news folder](./news/README.md)
