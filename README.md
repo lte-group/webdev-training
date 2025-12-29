@@ -48,4 +48,4 @@ On top of these technologies you are likely to come across other programming lan
 
 ## Main Project
 
-Once you have worked through the above exercises then you can move onto the main project, the details for which are in [news folder](./news/README.md)
+Once you have worked through the above exercises then you can move onto the main project, the details for which are in [news folder](./django/README.md)
